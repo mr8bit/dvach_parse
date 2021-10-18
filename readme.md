@@ -27,7 +27,7 @@ pip install -r requirements.txt
 python main.py --save_dir='./boards'
 ```
 
-Запустит парсер по доска b,hw
+Запустит парсер по доскам b,hw
 
 ```bash
 python main.py --board=b,hw --save_dir='./boards'
